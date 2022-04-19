@@ -24,7 +24,7 @@ Not all of them are directly related to this test task, but they're all connecte
 [CSC2547 Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance](https://youtu.be/C55y7RhJ1fE)  
 
 ### Papers
-[DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://github.com/facebookresearch/DeepSDF)  
+[DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)  
 [DIST: Rendering Deep Implicit Signed Distance Function with Differentiable Sphere Tracing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_DIST_Rendering_Deep_Implicit_Signed_Distance_Function_With_Differentiable_Sphere_CVPR_2020_paper.pdf)  
 [Adversarial Generation of Continuous Implicit Shape Representations](https://arxiv.org/pdf/2002.00349.pdf)  
 [SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape
@@ -32,6 +32,7 @@ Optimization](https://arxiv.org/pdf/2006.03997.pdf)
 [MeshSDF: Differentiable Iso-Surface Extraction](https://arxiv.org/pdf/2006.03997.pdf)  
 
 ### Repos
+[DeepSDF](https://github.com/facebookresearch/DeepSDF)  
 [DIST-Renderer](https://github.com/B1ueber2y/DIST-Renderer)  
 [mesh-to-sdf](https://github.com/marian42/mesh_to_sdf)  
 [shapegan](https://github.com/marian42/shapegan)  
